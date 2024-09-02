@@ -51,8 +51,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/albertanthonyarrieta/albertanthonyarrieta/output/snake.svg" alt="Snake animation" />
-
-###
