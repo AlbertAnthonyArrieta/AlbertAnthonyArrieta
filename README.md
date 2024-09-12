@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Albert and I'm a Web Developer, from Calgary, Alberta, Canada.</h2>
+<h2 align="left">Hey! My name is Albert and I'm a Web Developer, from Calgary, Alberta, Canada.</h2>
 
 ###
 
